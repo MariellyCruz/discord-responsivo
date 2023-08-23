@@ -67,7 +67,7 @@ button {
 }
 
 .container-section {
-    padding: 40px 24px;
+    /* padding: 40px 24px; */
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -83,7 +83,7 @@ h3 {
     color: #23272A;
 }
 
-image {
+img {
     max-width: 379px;
     max-height: 252px;
 }
